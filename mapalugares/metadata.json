@@ -1,0 +1,6 @@
+{
+  "name": "AccesoUrbano — Puntos de Acceso y Mapa",
+  "description": "Sistema de gestión de puntos de acceso urbano con tabla en Supabase, validación de coordenadas decimales, filtros por tipo de entrada y visualización en Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
